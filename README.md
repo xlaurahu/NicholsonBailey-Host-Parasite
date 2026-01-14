@@ -1,6 +1,6 @@
 This is a repository for the final research paper and its numerical simulation scripts written by Laura Hu and Mia Prim. 
-This research paper was written under the guidance of Prof R. Carretero at SDSU and was graded as the final project of the graduate-level course Discrete Dynamical System and Chaos. 
-The finalized papaer is [Here](https://github.com/Lauerita/NicholsonBailey-Host-Parasite/blob/main/538-PROJECT.pdf)
+This research paper was written under the guidance of Prof R. Carretero at SDSU and was graded as the final project of the graduate-level course Discrete Dynamical Systems and Chaos. 
+The finalized paper is [Here](https://github.com/Lauerita/NicholsonBailey-Host-Parasite/blob/main/538-PROJECT.pdf).
 
 Abstract: 
 
