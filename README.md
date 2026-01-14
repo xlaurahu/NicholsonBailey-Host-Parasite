@@ -1,6 +1,6 @@
 This is a repository for the final research paper and its numerical simulation scripts written by Laura Hu and Mia Prim. 
 This research paper was written under the guidance of Prof R. Carretero at SDSU and was graded as the final project of the graduate-level course Discrete Dynamical System and Chaos. 
-_The actual paper is uploaded as a pdf file_ and the rest are all numerical simulations in Python scripts. 
+The finalized papaer is [Here](https://github.com/Lauerita/NicholsonBailey-Host-Parasite/blob/main/538-PROJECT.pdf)
 
 Abstract: 
 
@@ -15,12 +15,11 @@ Abstract:
 
 Note:
 
-The basin of attraction is incorrect, the corrected version should be produced by both 'basin of attraction' python code in the repository. The images are shown below:
+The basin of attraction in the paper is incorrect; the corrected version should be produced by both the 'basin of attraction' Python code in the repository. The images are shown below:
 
 ![Figure 2025-01-14 183413](https://github.com/user-attachments/assets/2f42a22b-3a1c-411b-8842-848cb6ea8803)
 
 The basin of attraction (r = 11.2) for the unstable fixed point using Dr. Carrertero's MATLAB algorithm reference. 
-
 
 
 ![Figure 2025-01-14 183424mine](https://github.com/user-attachments/assets/6a45fd39-d1d3-4d03-acc9-1f01926600db)
