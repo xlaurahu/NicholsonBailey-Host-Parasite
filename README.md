@@ -20,8 +20,3 @@ The basin of attraction in the paper is incorrect; the corrected version should 
 ![Figure 2025-01-14 183413](https://github.com/user-attachments/assets/2f42a22b-3a1c-411b-8842-848cb6ea8803)
 
 The basin of attraction (r = 11.2) for the unstable fixed point using Dr. Carrertero's MATLAB algorithm reference. 
-
-
-![Figure 2025-01-14 183424mine](https://github.com/user-attachments/assets/6a45fd39-d1d3-4d03-acc9-1f01926600db)
-
-The basin of attraction (r = 11.2) using Hu's algorithm.
